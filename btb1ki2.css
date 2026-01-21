@@ -2,6 +2,7 @@ body{
     background-color: antiquewhite;
 }
 h1{
+    text-align: center;
     color: rgb(176, 113, 19)
 }
 table,th,td{
@@ -20,3 +21,8 @@ th{
 td{
     text-align: center;
 }
+table{
+   margin-right: auto;
+   margin-left: auto;
+}
+
